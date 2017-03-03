@@ -1,0 +1,17 @@
+{
+  "name": "@incessantmeraki/howtonpm",
+  "version": "1.0.2",
+  "description": "how-to-npm workshopper",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "http://test.com"
+  }
+}
